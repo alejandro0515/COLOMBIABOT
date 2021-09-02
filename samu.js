@@ -1,10 +1,10 @@
-//============ NyanBot ============\\
+//============ ColombianBot ============\\
 // + Favor de mantener este codigo
 //   tal y como esta.
 // + Si modificaras, manten los
 //   creditos:
 //   _MankBarBar & Samu & LolHuman_
-//============ Samu330 ============\\
+//============ Alejo ============\\
 const { 
   WAConnection,
   MessageType,
